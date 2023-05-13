@@ -1,0 +1,17 @@
+{
+  "name": "blizzapitest",
+  "version": "1.0.0",
+  "description": "testing the blizz api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base-64": "^1.0.0",
+    "blizzapi": "^2.6.0",
+    "wow-armory.js": "^1.0.8"
+  }
+}
